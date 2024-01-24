@@ -2,3 +2,6 @@ Machine Learning ist die Wissenschaft (und Kunst), Computer so zu programmieren,
 Maschinelles Lernen ist das Fachgebiet, das Computern die Fahigkeit zu lernen verleiht, ohne explizit programmieren zu werden.
 Man sagt, dass ein Computerprogramm dann aus Erfahrungen E in Bezug auf eine Aufgabe T und ein Maß für die Leistung P lernt, wenn seine durch P gemessene Leistung bei T mit der Erfahrung E anwächst.
 Falls Sie gerade eine Kopie von Wikipedia heruntergeladen haben, verfügt Ihr Computer über eine Menge zusätlicher Daten, verbessern sich dadurch aber bei keiner Aufgabe. Deshalb ist dies kein Machine Learning.
+WARUM WIRD MACHINE LEARNING VERWENDET?
+Überlegen Sie einmal, wie Sie mit herkommlichen Programmiertechniken einen Spamfilter schreiben würden.
+1. Zuerst würden Sie ansehen, wie Spam typischerweise aussieht. Sie würden feststellen, dass einige Wörter oder Phrasen (wie 'Für Sie', 'Kreditkarte', 'kostenlos', und 'erstaunlich') in der Betreffzeile gehäuft auftreten. Möglicherweise würden Ihnen auch weitere Muster im Namen des Absenders, dem Text und in anderen Teilen der E-Mail auffallen.
