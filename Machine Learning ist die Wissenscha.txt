@@ -1,3 +1,4 @@
 Machine Learning ist die Wissenschaft (und Kunst), Computer so zu programmieren, dass sie anhand von Daten lernen.
-Machinelles Lernen ist das Fachgebiet, das Computern die Fahigkeit zu lernen verleiht, ohne explizit programmieren zu werden.
+Maschinelles Lernen ist das Fachgebiet, das Computern die Fahigkeit zu lernen verleiht, ohne explizit programmieren zu werden.
 Man sagt, dass ein Computerprogramm dann aus Erfahrungen E in Bezug auf eine Aufgabe T und ein Maß für die Leistung P lernt, wenn seine durch P gemessene Leistung bei T mit der Erfahrung E anwächst.
+Falls Sie gerade eine Kopie von Wikipedia heruntergeladen haben, verfügt Ihr Computer über eine Menge zusätlicher Daten, verbessern sich dadurch aber bei keiner Aufgabe. Deshalb ist dies kein Machine Learning.
